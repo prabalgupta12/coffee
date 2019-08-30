@@ -1,5 +1,3 @@
-// coffee
-about the coffe shop and how to take the beverage from the list 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,7 +10,7 @@ about the coffe shop and how to take the beverage from the list
     font-size:36px;
 }
 body{
-    background-color: cornsilk
+    background-color :azure
     }
     </style>
     <p>
